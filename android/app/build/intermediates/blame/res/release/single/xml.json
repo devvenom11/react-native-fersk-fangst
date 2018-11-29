@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/b09d239ca70a284f47a8bcd32e27ccc0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/release/xml/provider_paths.xml"
+    }
+]

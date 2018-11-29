@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f8bd1049079e152f225620c878659e16/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f8bd1049079e152f225620c878659e16/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f8bd1049079e152f225620c878659e16/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/702e6d3617cd497eadea0273204d4bc0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f8bd1049079e152f225620c878659e16/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

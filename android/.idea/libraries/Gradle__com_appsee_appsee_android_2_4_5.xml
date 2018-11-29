@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appsee:appsee-android-2.4.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appsee-android-2.4.5.aar/b1d965b4aedb252461b9106cb8326455/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appsee-android-2.4.5.aar/b1d965b4aedb252461b9106cb8326455/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.appsee/appsee-android/2.4.5/d9d02ac2c5aa6e7d89f9290b89224d1145029553/appsee-android-2.4.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

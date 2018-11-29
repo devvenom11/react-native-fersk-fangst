@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_roundlauncher.png",
+        "source": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/src/main/res/mipmap-xxhdpi/ic_roundlauncher.png"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

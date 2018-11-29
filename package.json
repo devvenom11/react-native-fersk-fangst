@@ -1,0 +1,42 @@
+{
+  "name": "FerskFangst",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "jest-react-native": "^18.0.0",
+    "react-test-renderer": "16.2.0"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "node node_modules/jest/bin/jest.js"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "dependencies": {
+    "@remobile/react-native-toast": "^1.0.7",
+    "moment": "^2.21.0",
+    "react": "16.2.0",
+    "react-native": "0.51.0",
+    "react-native-appsee": "^2.4.12",
+    "react-native-camera": "git+https://git@github.com/react-native-community/react-native-camera",
+    "react-native-cancelable-fetch": "^0.1.1",
+    "react-native-cookies": "^3.2.0",
+    "react-native-fcm": "^14.2.1",
+    "react-native-geocoding": "^0.2.0",
+    "react-native-image-gallery": "^2.1.5",
+    "react-native-image-picker": "^0.27.1",
+    "react-native-linear-gradient": "^2.4.2",
+    "react-native-maps": "^0.20.1",
+    "react-native-material-dropdown": "git+https://github.com/harshitjee/react-native-material-dropdown.git",
+    "react-native-material-textfield": "^0.12.0",
+    "react-native-phone-input": "^0.2.1",
+    "react-native-switch": "^1.5.0",
+    "react-native-switch-pro": "^1.0.1-beta",
+    "react-native-vector-icons": "^4.5.0",
+    "react-navigation": "^1.4.0"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "918915443650",
+    "firebase_url": "https://ferskfangst-cded0.firebaseio.com",
+    "project_id": "ferskfangst-cded0",
+    "storage_bucket": "ferskfangst-cded0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918915443650:android:f3a686beabfa3739",
+        "android_client_info": {
+          "package_name": "com.ferskfangst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918915443650-ef6s494ch1p69unkf5sc07d9ft53th89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIMflcPuT8u9WzvgRuGJ-rLiXz7GMg61s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.17/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.17_0c382f96200716a6dee62d3649082f68c0297736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_1f6f7a26dc3bca7e37f6ff3da7fa52b840bbb1f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_9b1a1fe05177c07b83a9d9754aeeefae62483a3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.4_8f488218a25007ecef740fa115c1d9e37d6632c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_10cb7b2ac4e2fa4e995fe1914273b7adc2112e62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_3d7ed5fc532b72e836980622b1a7fc9a2182355a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_8dc4cee95269e01ee8304892189f863b500876dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_3c882547cf051a4bd4428b802f45c2ee274126f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/FerskFangst/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/FerskFangst-react-native-vector-icons-unspecified_7a1de2f12fe611b22e24dd6f62590917f6b74e28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_5cc069066d0144117f73609079eded4a21a69df9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.4_61a4cbccc5178fa369e9c246686ba12a5ea8eef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_6cace191f80d8bd4504631ef9e8cc42788b87b44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_fc098ab7189010a47efe25816a3346bc5b037176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.4_06a2aed72759e274e6678886832fa00ebefdb2d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_12b8383e968363800b2ccce288e466daeaac1c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.2.4_0032073b9fafa3df02c375c43a7c4653a2053d3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3eb4716e38c36af994cfeb934b15309b535ed112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_fc9a383ff93ea5d8fd217378b0a424dae69c9518.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/FerskFangst/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1de8f75805268154da5e88bb6195760b9d8966f">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/FerskFangst-react-native-linear-gradient-unspecified_a680c6e1414daf2a1442056e752555a26d2612d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/FerskFangst/react-native-fcm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9603e8723e740ef0b5eeff7f47eeac2c49237ca8">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/FerskFangst-react-native-fcm-unspecified_3a62212546d45e512155ada2d87ac4d6fbebe03e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Backup/Setup/Development-Tools/Android/android-sdk-macosx/build-tools/23.0.3/renderscript/lib/renderscript-v8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5b79706a834fa62fc97734d9e799e98b63536ff8">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/renderscript-v8_df86be4dc0e832768e4a2c94ddafda368034e61c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.4_24185c4cfdf175150aaf4bb30e73a96aeca4fd9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_3a59f89eaee342ef9bc48b0ea118e4c7ff5b64f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.4_61cd6bbcbdce6311e9e2fb9a7e7f9b6fb84f895a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_94af6b6e46259fface6b37e78b1a24c5de1bf3c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/FerskFangst/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6e662fd02e3a3695f4efedcc5adcf5e1f054a6fb">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/FerskFangst-react-native-maps-unspecified_1e7dc3a107232d46ba4657e450472d299b6e7336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Backup/Setup/Development-Tools/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_1aaeb1c1244111efab6873ee6b0b527b6501301c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_f6c9c41cea0a2eae6814818af50446dde1cb46a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.4_261ae2807a48f318acbfbedd492390a4c9073f36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_955671b98cff1d6d0ab90394a2c1f555ebf64849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_61c9b7f4ff81bbe5360bb04dccabc3652c8434d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/FerskFangst/react-native-cookies/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f9748c4494f7cb726d3ce79e245277b6b74457ec">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/FerskFangst-react-native-cookies-unspecified_cd59823708ae6de09ce6944d92ca650eefc25ccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_7dc8c8b6469663c27ccd32461e7012e059c852fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5cba8868595f6aaff54cf7d1798591108cf5611c">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.2.4_6c7779094d81f114d7ecbc2808f8385f2932b2db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_9c194cdfac67ab5e5fbf85b341b731a19f9e976f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_3298f07b3f7d0aa7f23f0a43e092e55ad0f6f40b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="80ecaefc1035fde747999e4c20e18d207363efa2">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.2.4_c3d37e5b50f6f63a27eca0adde76a686c7035ff8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d082dc14909ece9d78a55c3d1c2ea134216e75c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_ae5c9691caa62546c2e68e12d17e50d14c327db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e013739f7ddb6740bf196dc515d8999a6030f9ea">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.49.3_23a51e6f026f8808dfcb49c9269af874d879fc3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_04d004389179e9e40a23b23e1388da712ce9c796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.4_17f36f9291467ca779f60bb301307232195a198d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/exploded-aar/FerskFangst/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a9161da891dd3c9ae10d21b1a1f9f1b0ff683cfe">
+        <dex dex="/Volumes/Work/Workspace/ReactNative/FerskFangst/FerskFangst-Android/android/app/build/intermediates/pre-dexed/debug/FerskFangst-react-native-camera-unspecified_c33f9d80a40d6755e98732224eeb1a107eed0cbf.jar" />
+    </item>
+
+</items>

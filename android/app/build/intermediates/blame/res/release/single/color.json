@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/f2ebebbaf4abc5f8de3a156acd2ba040/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/f2ebebbaf4abc5f8de3a156acd2ba040/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/1277a716b1306f3c18cb0b563a6eb713/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/1277a716b1306f3c18cb0b563a6eb713/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c6c945fc58fc18e4562e0d3fc9f2c85e/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/1277a716b1306f3c18cb0b563a6eb713/res/color/common_google_signin_btn_tint.xml"
+    }
+]

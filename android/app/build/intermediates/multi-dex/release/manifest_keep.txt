@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:65
+-keep class com.ferskfangst.MainApplication { <init>(...); }
+

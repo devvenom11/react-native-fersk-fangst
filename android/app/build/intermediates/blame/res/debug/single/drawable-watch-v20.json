@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/2f94cfbbf1ca7639be28ea4a8083c24d/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/2f94cfbbf1ca7639be28ea4a8083c24d/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/2f94cfbbf1ca7639be28ea4a8083c24d/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

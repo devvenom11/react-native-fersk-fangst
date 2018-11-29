@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">918915443650-ef6s494ch1p69unkf5sc07d9ft53th89.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ferskfangst-cded0.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">918915443650</string>
+    <string name="google_api_key" translatable="false">AIzaSyAIMflcPuT8u9WzvgRuGJ-rLiXz7GMg61s</string>
+    <string name="google_app_id" translatable="false">1:918915443650:android:f3a686beabfa3739</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAIMflcPuT8u9WzvgRuGJ-rLiXz7GMg61s</string>
+    <string name="google_storage_bucket" translatable="false">ferskfangst-cded0.appspot.com</string>
+    <string name="project_id" translatable="false">ferskfangst-cded0</string>
+</resources>

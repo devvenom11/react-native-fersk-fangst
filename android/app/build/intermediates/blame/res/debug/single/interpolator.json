@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/6c6c38f1ca79f903b098c6dfa8a666b5/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/ReactNative/FerskFangst/react-native-ferskfangst-mobile/android/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/6c6c38f1ca79f903b098c6dfa8a666b5/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]
